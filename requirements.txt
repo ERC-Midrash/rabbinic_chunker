@@ -1,2 +1,11 @@
+pandas
+numpy
+scikit-learn
 transformers
 torch
+wtpsplit
+langchain
+requests
+tqdm
+anthropic
+openai
