@@ -9,3 +9,5 @@ requests
 tqdm
 anthropic
 openai
+seaborn
+matplotlib
